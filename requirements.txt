@@ -1,0 +1,18 @@
+# requirements.txt
+# Copy this content into a file named 'requirements.txt' in your project root
+
+# Core libraries
+torch
+numpy
+matplotlib
+scikit-learn
+
+# MONAI for medical imaging
+monai
+
+# Data handling
+h5py
+
+# For Kaggle dataset download
+kaggle
+
